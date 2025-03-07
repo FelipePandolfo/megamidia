@@ -7,7 +7,7 @@ keywords: "MegaMidia, soluções digitais, desenvolvimento web, marketing digita
 
 <section class="hero">
   <div class="container">
-    <h1>Bem vindo à MegaMidia</h1>
+    <h1>MegaMidia</h1>
     <p>Sua parceira em soluções digitais completas.</p>
     <a href="/servicos" class="btn">Nossos Serviços</a>
   </div>
